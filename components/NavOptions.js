@@ -1,3 +1,4 @@
+import { Icon } from "@rneui/base";
 import React from "react";
 import { FlatList, Image, Text, TouchableOpacity, View } from "react-native";
 import tw from "twrnc";
@@ -31,6 +32,12 @@ const NavOptions = () => {
               source={{ uri: item.image }}
             />
             <Text style={tw`mt-2 text-lg font-semibold`}>{item.title}</Text>
+            <Icon
+              style={tw`p-2 bg-black rounded-full w-10 mt-4`}
+              type="antdesign"
+              name="arrowright"
+              color="white"
+            />
           </View>
         </TouchableOpacity>
       )}
