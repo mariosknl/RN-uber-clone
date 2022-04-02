@@ -1,5 +1,4 @@
 import { createStackNavigator } from "@react-navigation/stack";
-import React from "react";
 import { StyleSheet, View } from "react-native";
 import tw from "twrnc";
 import Map from "../components/Map";
@@ -14,7 +13,7 @@ const MapScreen = () => {
         <Map />
       </View>
 
-      <View sttle={tw`h-1/2`}>
+      <View style={tw`h-1/2`}>
         <Stack.Navigator>
           <Stack.Screen
             name="NavigateCard"
