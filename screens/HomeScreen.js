@@ -3,6 +3,7 @@ import { Image, SafeAreaView, StyleSheet, View } from "react-native";
 import { GooglePlacesAutocomplete } from "react-native-google-places-autocomplete";
 import { useDispatch } from "react-redux";
 import tw from "twrnc";
+import NavFavourites from "../components/NavFavourites";
 import NavOptions from "../components/NavOptions";
 import { setDestination, setOrigin } from "../slices/navSlice";
 
@@ -49,6 +50,7 @@ const HomeScreen = () => {
         />
 
         <NavOptions />
+        <NavFavourites />
       </View>
     </SafeAreaView>
   );
