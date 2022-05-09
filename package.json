@@ -16,7 +16,7 @@
     "@reduxjs/toolkit": "1.8.1",
     "@rneui/base": "4.0.0-rc.1",
     "@rneui/themed": "4.0.0-rc.1",
-    "@types/react-native": "0.67.3",
+    "@types/react-native": "0.67.6",
     "expo": "44.0.6",
     "expo-status-bar": "1.2.0",
     "react": "17.0.1",
