@@ -2040,11 +2040,6 @@ array-filter@~0.0.0:
   resolved "https://registry.npmjs.org/array-filter/-/array-filter-0.0.1.tgz"
   integrity sha1-fajPLiZijtcygDWB/SH2fKzS7uw=
 
-array-find-index@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/array-find-index/-/array-find-index-1.0.2.tgz"
-  integrity sha1-3wEKoSh+Fku9pvlyOwqWoexBh6E=
-
 array-map@~0.0.0:
   version "0.0.0"
   resolved "https://registry.npmjs.org/array-map/-/array-map-0.0.0.tgz"
@@ -3787,7 +3782,7 @@ http-errors@2.0.0:
     statuses "2.0.1"
     toidentifier "1.0.1"
 
-hyphenate-style-name@^1.0.2, hyphenate-style-name@^1.0.4:
+hyphenate-style-name@^1.0.2:
   version "1.0.4"
   resolved "https://registry.npmjs.org/hyphenate-style-name/-/hyphenate-style-name-1.0.4.tgz"
   integrity sha512-ygGZLjmXfPHj+ZWh6LwbC37l43MhfztxetbFCoYTM2VjkIUpeHgSNn7QIyVFj7YQ1Wl9Cbw5sholVJPzWvC2MQ==
@@ -5738,18 +5733,18 @@ react-native-vector-icons@9.1.0:
     prop-types "^15.7.2"
     yargs "^16.1.1"
 
-react-native-web@0.17.7:
-  version "0.17.7"
-  resolved "https://registry.npmjs.org/react-native-web/-/react-native-web-0.17.7.tgz"
-  integrity sha512-4OOU/QjyRySOXyHfTvljEMS4VXKn42Qs3y9uHDPMwaCUFjwg0oasR/j706OaVgan9kF4Ipa2vJ3F6Z/Xqy8KeQ==
+react-native-web@0.18.0:
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.18.0.tgz#ad5eadcb8b84ac85ea729169e1a7200048ee2741"
+  integrity sha512-gPEd7kReLsthimkRBDASMwQrlxvLDkLPzVcDBZwyuE96Cxc8S5QM0RQSzZ4yJI2H5GY2SF4Cc9pdg6jJCAkv6g==
   dependencies:
-    array-find-index "^1.0.2"
     create-react-class "^15.7.0"
     fbjs "^3.0.0"
-    hyphenate-style-name "^1.0.4"
     inline-style-prefixer "^6.0.0"
     normalize-css-color "^1.0.2"
+    postcss-value-parser "^4.2.0"
     prop-types "^15.6.0"
+    styleq "0.1.0"
 
 react-native@0.68.2:
   version "0.68.2"
@@ -6487,6 +6482,11 @@ structured-headers@^0.4.1:
   version "0.4.1"
   resolved "https://registry.npmjs.org/structured-headers/-/structured-headers-0.4.1.tgz"
   integrity sha512-0MP/Cxx5SzeeZ10p/bZI0S6MpgD+yxAhi1BOQ34jgnMXsCq3j1t6tQnZu+KdlL7dvJTLT3g9xN8tl10TqgFMcg==
+
+styleq@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/styleq/-/styleq-0.1.0.tgz#fa7ddd0e8dcd1a5393fc8786a272ce5dfa799443"
+  integrity sha512-3pZrGqJnCkAJK0yIzIxWv/iTFv+cCjBJyw6uB5TOw2JhdNeCgmsuqWwDTSD8hneproiI9MGl9SfSG8OSEv4svw==
 
 sucrase@^3.20.0:
   version "3.20.3"
