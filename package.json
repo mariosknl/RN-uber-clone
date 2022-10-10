@@ -31,7 +31,7 @@
     "twrnc": "3.4.0"
   },
   "devDependencies": {
-    "@babel/core": "7.19.1"
+    "@babel/core": "7.19.3"
   },
   "private": true
 }
