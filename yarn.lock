@@ -7145,10 +7145,10 @@ tslib@^2.0.1, tslib@^2.1.0:
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.4.0.tgz"
   integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
 
-twrnc@3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/twrnc/-/twrnc-3.4.1.tgz#0bdd3f7f507565eb9ba380b1818e3bcc309c4ff8"
-  integrity sha512-sx06LpxIE11siE9mlK7qsXeNE9Hk0dU1ACEQztgdR0/V/kDm+U9XJ1L0ibtvqEstX8R5o1NzKrpHPewgvCn5ZA==
+twrnc@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/twrnc/-/twrnc-3.5.0.tgz#b46a7845a394f9843f0a83c25f04193080cb6b14"
+  integrity sha512-HcvyGAjbE4udXnGYcU8Y0T0Jj5d6wY/X2vWmiy8aYg15K/K709HRRyVVcFu0CrgK62qBBDKwuS5gFgb+w7MCLw==
   dependencies:
     tailwindcss ">=2.0.0"
 
