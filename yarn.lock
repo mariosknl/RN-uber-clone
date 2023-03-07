@@ -5777,10 +5777,10 @@ react-native-codegen@^0.71.5:
     jscodeshift "^0.13.1"
     nullthrows "^1.1.1"
 
-react-native-dotenv@3.4.7:
-  version "3.4.7"
-  resolved "https://registry.npmjs.org/react-native-dotenv/-/react-native-dotenv-3.4.7.tgz"
-  integrity sha512-GqUDdmrtKw7qYS9jjQLipEPctMd0YuSBNVZBNlaHtaHMJ63iaB4FABO4uX0iSUJpgMwozZki4fRv4dDHmVUoLg==
+react-native-dotenv@3.4.8:
+  version "3.4.8"
+  resolved "https://registry.npmjs.org/react-native-dotenv/-/react-native-dotenv-3.4.8.tgz"
+  integrity sha512-fg9F8X/cG1kDTwRLgLz3t+AMbsULoFHbUVltdQarmrJ3kNllD1Zq7ZgY85bp8BnPwk0DnYQzKbooiLsUoKd10w==
   dependencies:
     dotenv "^16.0.3"
 
