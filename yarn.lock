@@ -2218,10 +2218,10 @@ babel-plugin-syntax-trailing-function-commas@^7.0.0-beta.0:
   resolved "https://registry.npmjs.org/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-7.0.0-beta.0.tgz"
   integrity sha512-Xj9XuRuz3nTSbaTXWv3itLOcxyF4oPD8douBBmj7U9BBC6nEBYfyOJYQMf/8PJAFotC62UY5dFfIGEPr7WswzQ==
 
-babel-preset-expo@~9.3.0:
-  version "9.3.0"
-  resolved "https://registry.npmjs.org/babel-preset-expo/-/babel-preset-expo-9.3.0.tgz"
-  integrity sha512-cIz+5TVBkcZgtfpTyFPo1peswr2dvQj2VIwdj5vY37/zESsYBHfaZ+u/A11yb1WnuZHcYD/ZoSLNwmWr20jp4Q==
+babel-preset-expo@~9.3.2:
+  version "9.3.2"
+  resolved "https://registry.npmjs.org/babel-preset-expo/-/babel-preset-expo-9.3.2.tgz"
+  integrity sha512-BjyvjwjJG0MaaDBLP/esbXRrAItM76po9L9zfnLxeqgFsHCIPmD+6ir45coDLGAXwR8m9It3G1yqYM9JPyemsQ==
   dependencies:
     "@babel/plugin-proposal-decorators" "^7.12.9"
     "@babel/plugin-proposal-object-rest-spread" "^7.12.13"
@@ -2229,7 +2229,7 @@ babel-preset-expo@~9.3.0:
     "@babel/preset-env" "^7.20.0"
     babel-plugin-module-resolver "^4.1.0"
     babel-plugin-react-native-web "~0.18.10"
-    metro-react-native-babel-preset "0.73.7"
+    metro-react-native-babel-preset "0.73.9"
 
 babel-preset-fbjs@^3.4.0:
   version "3.4.0"
@@ -3280,10 +3280,10 @@ expo-modules-autolinking@1.1.2:
     find-up "^5.0.0"
     fs-extra "^9.1.0"
 
-expo-modules-core@1.2.5:
-  version "1.2.5"
-  resolved "https://registry.npmjs.org/expo-modules-core/-/expo-modules-core-1.2.5.tgz"
-  integrity sha512-5pXNlLHNKLayOusAFMbqr27gjgymHuKuWl/Dtbw2MjoyJY1MZCGD2nIJxd1TTcfnyxNxLg6OQmgkyqoBUFqBuw==
+expo-modules-core@1.2.6:
+  version "1.2.6"
+  resolved "https://registry.npmjs.org/expo-modules-core/-/expo-modules-core-1.2.6.tgz"
+  integrity sha512-vyleKepkP8F6L+D55B/E4FbZ8x9pdy3yw/mdbGBkDkrmo2gmeMjOM1mKLSszOkLIqet05O7Wy8m0FZHZTo0VBg==
   dependencies:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
@@ -3293,17 +3293,17 @@ expo-status-bar@1.4.4:
   resolved "https://registry.npmjs.org/expo-status-bar/-/expo-status-bar-1.4.4.tgz"
   integrity sha512-5DV0hIEWgatSC3UgQuAZBoQeaS9CqeWRZ3vzBR9R/+IUD87Adbi4FGhU10nymRqFXOizGsureButGZIXPs7zEA==
 
-expo@48.0.7:
-  version "48.0.7"
-  resolved "https://registry.npmjs.org/expo/-/expo-48.0.7.tgz"
-  integrity sha512-4sPW+HWm03z72FKIG9IddwEhF9+RlAUsTh8pnsoZjZbXALVikmV3QjD4zp/Dkt9YuiCAnJN1VBaT2AlhbYk2Rg==
+expo@48.0.10:
+  version "48.0.10"
+  resolved "https://registry.npmjs.org/expo/-/expo-48.0.10.tgz"
+  integrity sha512-8YXG6um3ld36nu/ONEC0NNkMatdj4k/HwR7OUd3dKUt3PJSkZHsCeLXIu8za7WSWpgPAU/xAj35noPFEFnjO1w==
   dependencies:
     "@babel/runtime" "^7.20.0"
     "@expo/cli" "0.6.2"
     "@expo/config" "8.0.2"
     "@expo/config-plugins" "6.0.1"
     "@expo/vector-icons" "^13.0.0"
-    babel-preset-expo "~9.3.0"
+    babel-preset-expo "~9.3.2"
     cross-spawn "^6.0.5"
     expo-application "~5.1.1"
     expo-asset "~8.9.1"
@@ -3312,7 +3312,7 @@ expo@48.0.7:
     expo-font "~11.1.1"
     expo-keep-awake "~12.0.1"
     expo-modules-autolinking "1.1.2"
-    expo-modules-core "1.2.5"
+    expo-modules-core "1.2.6"
     fbemitter "^3.0.0"
     getenv "^1.0.0"
     invariant "^2.2.4"
@@ -4687,10 +4687,10 @@ metro-minify-uglify@0.73.8:
   dependencies:
     uglify-es "^3.1.9"
 
-metro-react-native-babel-preset@0.73.7:
-  version "0.73.7"
-  resolved "https://registry.npmjs.org/metro-react-native-babel-preset/-/metro-react-native-babel-preset-0.73.7.tgz"
-  integrity sha512-RKcmRZREjJCzHKP+JhC9QTCohkeb3xa/DtqHU14U5KWzJHdC0mMrkTZYNXhV0cryxsaVKVEw5873KhbZyZHMVw==
+metro-react-native-babel-preset@0.73.8:
+  version "0.73.8"
+  resolved "https://registry.npmjs.org/metro-react-native-babel-preset/-/metro-react-native-babel-preset-0.73.8.tgz"
+  integrity sha512-spNrcQJTbQntEIqJnCA6yL4S+dzV9fXCk7U+Rm7yJasZ4o4Frn7jP23isu7FlZIp1Azx1+6SbP7SgQM+IP5JgQ==
   dependencies:
     "@babel/core" "^7.20.0"
     "@babel/plugin-proposal-async-generator-functions" "^7.0.0"
@@ -4731,10 +4731,10 @@ metro-react-native-babel-preset@0.73.7:
     "@babel/template" "^7.0.0"
     react-refresh "^0.4.0"
 
-metro-react-native-babel-preset@0.73.8:
-  version "0.73.8"
-  resolved "https://registry.npmjs.org/metro-react-native-babel-preset/-/metro-react-native-babel-preset-0.73.8.tgz"
-  integrity sha512-spNrcQJTbQntEIqJnCA6yL4S+dzV9fXCk7U+Rm7yJasZ4o4Frn7jP23isu7FlZIp1Azx1+6SbP7SgQM+IP5JgQ==
+metro-react-native-babel-preset@0.73.9:
+  version "0.73.9"
+  resolved "https://registry.npmjs.org/metro-react-native-babel-preset/-/metro-react-native-babel-preset-0.73.9.tgz"
+  integrity sha512-AoD7v132iYDV4K78yN2OLgTPwtAKn0XlD2pOhzyBxiI8PeXzozhbKyPV7zUOJUPETj+pcEVfuYj5ZN/8+bhbCw==
   dependencies:
     "@babel/core" "^7.20.0"
     "@babel/plugin-proposal-async-generator-functions" "^7.0.0"
