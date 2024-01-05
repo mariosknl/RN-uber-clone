@@ -1297,10 +1297,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@types/geojson@^7946.0.10":
-  version "7946.0.10"
-  resolved "https://registry.npmjs.org/@types/geojson/-/geojson-7946.0.10.tgz"
-  integrity sha512-Nmh0K3iWQJzniTuPRcJn5hxXkfB1T1pgB89SBig5PlJQU5yocazeu4jATJlaA0GYFKWMqDdvYemoSnF2pXgLVA==
+"@types/geojson@^7946.0.13":
+  version "7946.0.13"
+  resolved "https://registry.npmjs.org/@types/geojson/-/geojson-7946.0.13.tgz"
+  integrity sha512-bmrNrgKMOhM3WsafmbGmC+6dsF2Z308vLFsQ3a/bT8X8Sv5clVYpPars/UPq+sAaJP+5OoLAYgwbkS5QEJdLUQ==
 
 "@types/hammerjs@^2.0.36":
   version "2.0.41"
@@ -3679,12 +3679,12 @@ react-native-maps-directions@1.9.0:
     lodash.isequal "^4.5.0"
     prop-types "^15.6.0"
 
-react-native-maps@1.8.4:
-  version "1.8.4"
-  resolved "https://registry.npmjs.org/react-native-maps/-/react-native-maps-1.8.4.tgz"
-  integrity sha512-PL7XX4dddTZB7PHDY0qslsJls5X2uRL2FSfUmiH4CFXIJ2l8QTaeWM6BLwnBswNUL6p4lQQeXuiATAhaRLHT6g==
+react-native-maps@1.9.1:
+  version "1.9.1"
+  resolved "https://registry.npmjs.org/react-native-maps/-/react-native-maps-1.9.1.tgz"
+  integrity sha512-bYdwvru5L3bwHo9a/tPpMQnI6eRN6BNjMTxjiDbd6t01mUA0+8e7nCSfgHEm9s3Zq7X2xHf6gjgk2bOXj5Z3IQ==
   dependencies:
-    "@types/geojson" "^7946.0.10"
+    "@types/geojson" "^7946.0.13"
 
 react-native-vector-icons@10.0.3:
   version "10.0.3"
