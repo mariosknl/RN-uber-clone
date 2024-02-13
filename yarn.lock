@@ -1198,10 +1198,10 @@
     color "^4.2.3"
     warn-once "^0.1.0"
 
-"@reduxjs/toolkit@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/@reduxjs/toolkit/-/toolkit-2.1.0.tgz"
-  integrity sha512-nfJ/b4ZhzUevQ1ZPKjlDL6CMYxO4o7ZL7OSsvSOxzT/EN11LsBDgTqP7aedHtBrFSVoK7oTP1SbMWUwGb30NLg==
+"@reduxjs/toolkit@2.2.0":
+  version "2.2.0"
+  resolved "https://registry.npmjs.org/@reduxjs/toolkit/-/toolkit-2.2.0.tgz"
+  integrity sha512-ZvPYKfu4kDnAqPhJ1bsis8QFbiQRz3Q2HxW3tw9tVGusPzYKRG7ju1FA+34PGcwCoemjGGv+f/7fEygcRZIwmA==
   dependencies:
     immer "^10.0.3"
     redux "^5.0.1"
