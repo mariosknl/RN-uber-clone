@@ -3625,10 +3625,10 @@ react-native-maps-directions@1.9.0:
     lodash.isequal "^4.5.0"
     prop-types "^15.6.0"
 
-react-native-maps@1.15.1:
-  version "1.15.1"
-  resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-1.15.1.tgz#2a038576085ff241864ae037cb0a96beab871251"
-  integrity sha512-xdU1Qoe9pvyYx/EQwkpBuubHenSUknODjvKPNlzYJF57CPhjieMIomZL/vCupxTHKqsat2wTCt7O6AdByea5wA==
+react-native-maps@1.15.4:
+  version "1.15.4"
+  resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-1.15.4.tgz#1691a80ffe7d96a9aff1315959de11302b155f0c"
+  integrity sha512-If6GCSvopxQ/80jjpi70d9Uvq6wcWCyPjh+8F3JPC5vq+vEMvAq7Phuine1tnZPKXmh6gEzdF2z+9857hGrsYg==
   dependencies:
     "@types/geojson" "^7946.0.13"
 
