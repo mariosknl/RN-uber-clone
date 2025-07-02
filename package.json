@@ -32,7 +32,7 @@
     "twrnc": "4.7.0"
   },
   "devDependencies": {
-    "@babel/core": "7.27.1"
+    "@babel/core": "7.28.0"
   },
   "private": true
 }
