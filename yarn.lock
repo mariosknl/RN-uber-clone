@@ -3268,10 +3268,10 @@ ts-interface-checker@^0.1.9:
   resolved "https://registry.npmjs.org/ts-interface-checker/-/ts-interface-checker-0.1.13.tgz"
   integrity sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==
 
-twrnc@4.7.0:
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/twrnc/-/twrnc-4.7.0.tgz#684ae28f88891d373618ce42ae42b8d2f4f72ba7"
-  integrity sha512-TUxMi2OTV98z8O3qzQ0ibJT67udwlAQ3UZNU9zRWBPIxfPkPYOLITzCqnoLAOZ0/5uIiZOkdlN/DeMFIdlsUsg==
+twrnc@4.10.0:
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/twrnc/-/twrnc-4.10.0.tgz#5cac20213a863b2986df8a3f1276cb734068d7e3"
+  integrity sha512-xfsS50tZRSCyHTYgBpD8b5doj+4gssA5y6FkLaPSo4PkQ0PbFdSLcCOZ4qnw8ccTSUBzYdbfsh4+F9XOIUTppA==
   dependencies:
     tailwindcss ">=2.0.0 <4.0.0"
 
